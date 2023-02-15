@@ -1,24 +1,22 @@
-### Hi there 👋
-
 <!--
 **w3villa-harsh-kumar/w3villa-harsh-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Full Stack Development
+- 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Boy with a strong will
 -->
 
 <img src="https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fHF1b3RlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" width="100%" height="80%">
 <hr>
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshu6397&label=Profile%20views&color=0e75b6&style=flat" alt="harshu6397" /> </p>
+<h1 align="center">Hi there 👋, I'm Harsh Kumar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=w3villa-harsh-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="w3villa-harsh-kumar" /> </p>
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
@@ -26,8 +24,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![ReactJS](https://img.shields.io/badge/RractJS-Intermediate-lightgrey)
 
-- 🌱 I’m currently learning **Machine Learning and Web Development**
-- 📫 How to reach me **harshkumarkardam258@gmail.com**
+- 🔭 I’m currently working on Full Stack Development
+- 🌱 I’m currently learning Ruby on Rails
+- 📫 How to reach me **harsh.kumar@w3villa.com**
+- ⚡ Fun fact: Boy with a strong will 💪
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width="60px" height="60px"/>](https://jupyter.org/)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshu6397&show_icons=true&locale=en&layout=compact" alt="harshu6397" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=w3villa-harsh-kumar&show_icons=true&locale=en&layout=compact" alt="w3villa-harsh-kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshu6397&" alt="harshu6397" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w3villa-harsh-kumar&" alt="w3villa-harsh-kumar" /></p>
